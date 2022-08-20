@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Naruto987654
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
+- 👋 Hi, I’m @AonAbbas
+- 👀 I’m interested in 3D modeling/Designing and Coding 
+- 🌱 I’m currently learning 3D modeling/designing and Coding
 - 💞️ I’m looking to collaborate on Japansese Company
 - 📫 How to reach me email provided
 
